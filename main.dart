@@ -1,10 +1,4 @@
 import 'package:flutter/material.dart';
-import 'api/country_api.dart';
-// import 'dart:async';
-// import 'package:http/http.dart' as http;
-// import 'dart:convert';
-// import 'package:searchable_dropdown/searchable_dropdown.dart';
-
 void main() => runApp( MyApp());
 class MyApp extends StatelessWidget {
   @override
