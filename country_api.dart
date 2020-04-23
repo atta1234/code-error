@@ -69,7 +69,7 @@ Province selectedProvince;
  }
  
 
-//get province
+//get cites
 final String urlcity = "http://10.0.2.2/fff/api/city/";
  List<City> ceties;
 List<DropdownMenuItem<City>> cetiesDropdownItems=[];
